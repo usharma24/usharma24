@@ -160,7 +160,6 @@
 
 ## 🐍 Contribution Snake
 
-```html
 - uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
