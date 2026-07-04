@@ -108,10 +108,7 @@
 
 ## 📊 Developer Analytics Dashboard
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=usharma24&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb9af7&icon_color=bb9af7&text_color=c0caf5"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usharma24&layout=compact&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5"/>
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=usharma24&theme=tokyonight&hide_border=true&fire=bb9af7&ring=bb9af7"/>
