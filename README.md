@@ -102,7 +102,7 @@
 * 🎓 **Integrated M.Sc. IT Student** — *Deep learning specialization*
 * 🧠 **Google Cloud** — *Create Your First Gemini Enterprise Application (AI Skill Badge)*
   <br/>
-  <img src="Create Your First Gemini Enterprise Application.png" alt="Google Cloud Gemini Certificate" width="45%">
+  <img src="Create Your First Gemini Enterprise Application.png" alt="Google Cloud Gemini Certificate" width="70%">
   <br/><br/>
 * ☁️ **AWS Training & Certification** — *Foundations of Prompt Engineering (June 2026)*
   <br/>
