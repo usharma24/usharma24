@@ -120,9 +120,6 @@
   <br/>
   <img src="deloitte_data_analytics.jpg" alt="Deloitte Data Analytics Certificate" width="70%">
   <br/><br/>
-* ☁️ **AWS Educate Certified** — *Cloud infrastructure deployment*
-* 📊 **IBM SkillsBuild Certified** — *Advanced data modeling*
-* 🏆 **Microsoft Learn** — *Enterprise systems certification*
 
 ---
 
