@@ -108,7 +108,10 @@
 
 ## 📊 Developer Analytics Dashboard
 
-
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=usharma24&show_icons=true&theme=tokyonight&hide_border=true&title_color=bb9af7&icon_color=bb9af7&text_color=c0caf5"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usharma24&layout=compact&theme=tokyonight&hide_border=true&title_color=bb9af7&text_color=c0caf5"/>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=usharma24&theme=tokyonight&hide_border=true&fire=bb9af7&ring=bb9af7"/>
@@ -126,16 +129,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=usharma24&theme=tokyonight"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=usharma24&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
----
-
-## 🏆 System Milestones
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usharma24&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 </p>
 
 ---
