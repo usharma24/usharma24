@@ -102,23 +102,23 @@
 * 🎓 **Integrated M.Sc. IT Student** — *Deep learning specialization*
 * 🧠 **Google Cloud** — *Create Your First Gemini Enterprise Application (AI Skill Badge)*
   <br/>
-  <img src="google_cloud_gemini_badge.png" alt="Google Cloud Gemini Certificate" width="45%">
+  <img src="Introduction to generative AI and agents_001.jpg" alt="Google Cloud Gemini Certificate" width="45%">
   <br/><br/>
 * ☁️ **AWS Training & Certification** — *Foundations of Prompt Engineering (June 2026)*
   <br/>
-  <img src="aws_prompt_engineering.jpg" alt="AWS Prompt Engineering Certificate" width="70%">
+  <img src="Foundations of Prompt Engineering_001.jpg" alt="AWS Prompt Engineering Certificate" width="70%">
   <br/><br/>
 * 💻 **Microsoft Learn** — *Explore and analyze data with Python (June 2026)*
   <br/>
-  <img src="microsoft_python_data_analysis.jpg" alt="Microsoft Data Analysis Certificate" width="70%">
+  <img src="Explore and Analyze Data With Python_001.jpg" alt="Microsoft Data Analysis Certificate" width="70%">
   <br/><br/>
 * 🚀 **Microsoft & Simplilearn** — *Introduction to Copilot for Startups (June 2026)*
   <br/>
-  <img src="simplilearn_copilot_startups.jpg" alt="Simplilearn Copilot Certificate" width="70%">
+  <img src="Introduction to Copilot for Startups_001.jpg" alt="Simplilearn Copilot Certificate" width="70%">
   <br/><br/>
 * 📊 **Deloitte (via Forage)** — *Data Analytics Job Simulation (June 2026)*
   <br/>
-  <img src="deloitte_data_analytics.jpg" alt="Deloitte Data Analytics Certificate" width="70%">
+  <img src="Data Analytics Job Simulation - DELOITTE_001.jpg" alt="Deloitte Data Analytics Certificate" width="70%">
   <br/><br/>
 
 ---
