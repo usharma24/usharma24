@@ -13,11 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ujjwal-d-sharma/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=bb9af7"/></a>
-  <a href="https://github.com/usharma24"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=bb9af7"/></a>
-</p>
-
-<p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=usharma24&label=Profile+Views&style=for-the-badge&color=7C3AED">
 
@@ -26,6 +21,13 @@
 <img src="https://img.shields.io/github/stars/usharma24?affiliations=OWNER&style=for-the-badge&color=8A5CF6">
 
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ujjwal-d-sharma/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=bb9af7"/></a>
+  <a href="https://github.com/usharma24"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=bb9af7"/></a>
+</p>
+
+
 
 ---
 
