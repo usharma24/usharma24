@@ -4,6 +4,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=bb9af7&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Python+Developer;Deep+Learning+%26+Computer+Vision+Specialist;Building+Scalable+FastAPI+%26+Flask+Systems;Orchestrating+Generative+AI+%26+MLOps+Pipelines"/>
+
+  <img src="https://img.shields.io/badge/🎓_Integrated_M.Sc._IT-GLS_University-7C3AED?style=for-the-badge">
 </p>
 
 <p align="center">
@@ -13,16 +15,12 @@
 </p>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎓_Integrated_M.Sc._IT-GLS_University-7C3AED?style=for-the-badge">
-</p>
+
 
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/ujjwal-d-sharma/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=bb9af7"/></a>
   <a href="https://github.com/usharma24"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=bb9af7"/></a>
-  <a href="mailto:sharmaujjwal242003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:sharmaujjwal242003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
