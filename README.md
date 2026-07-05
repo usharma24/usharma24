@@ -12,19 +12,17 @@
   <img src="https://img.shields.io/github/stars/usharma24?affiliations=OWNER&style=for-the-badge&color=bb9af7&labelColor=1a1b27&logo=github&logoColor=bb9af7&label=Repo+Stars"/>
 </p>
 
+
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=usharma24&label=Profile+Views&style=for-the-badge&color=7C3AED">
-
-<img src="https://img.shields.io/github/followers/usharma24?style=for-the-badge&color=3B82F6">
-
-<img src="https://img.shields.io/github/stars/usharma24?affiliations=OWNER&style=for-the-badge&color=8A5CF6">
-
+  <img src="https://img.shields.io/badge/🎓_Integrated_M.Sc._IT-GLS_University-7C3AED?style=for-the-badge">
 </p>
 
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/ujjwal-d-sharma/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=bb9af7"/></a>
   <a href="https://github.com/usharma24"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=bb9af7"/></a>
+  <a href="mailto:sharmaujjwal242003@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 
